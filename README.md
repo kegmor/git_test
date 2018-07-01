@@ -1,0 +1,1 @@
+This is kegmor's first git project!
